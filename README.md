@@ -16,6 +16,11 @@
 
 ## :star2: About the Project
 
+### :camera: Screenshots
+<div align="center"> <a href="https://alirezafakhar.github.io/News/index"><img src="https://github.com/alirezaFAkhar/AlirezaFakhar.github.io/blob/main/News/asset/image/news.webp" alt='image' width='800'/></a> </div>
+
+
+
 
 
 ## :handshake: Contact
